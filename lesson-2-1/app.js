@@ -1,0 +1,1 @@
+VTTCue.createApp({}).mount('#app')
