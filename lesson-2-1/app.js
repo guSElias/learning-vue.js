@@ -12,9 +12,9 @@ const vm = Vue.createApp({
    }
 }).mount('#app')
 
- setTimeout(() => {
-   vm.firstName = "Bob";
- }, 2000);
+//  setTimeout(() => {
+//    vm.firstName = "Bob";
+//  }, 2000);
 
 //  Vue.createApp({
 //    data() {
